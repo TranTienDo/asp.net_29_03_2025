@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranTienDo_2122110150.props" />
+</Project>
