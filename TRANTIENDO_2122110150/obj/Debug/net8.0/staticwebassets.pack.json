@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\47c2c6a8-a310-4fe4-852d-d6d133c80ce2.jpg",
+      "PackagePath": "staticwebassets\\images\\47c2c6a8-a310-4fe4-852d-d6d133c80ce2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\95cf5047-dbe9-47a0-8491-892483ddd77d.jpg",
+      "PackagePath": "staticwebassets\\images\\95cf5047-dbe9-47a0-8491-892483ddd77d.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\965c0c6c-7a5a-46d8-84bf-dc0f03b2d8c7.jpg",
+      "PackagePath": "staticwebassets\\images\\965c0c6c-7a5a-46d8-84bf-dc0f03b2d8c7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\9fdb15fa-8395-40b7-abc4-d70c9235b2be.jpg",
+      "PackagePath": "staticwebassets\\images\\9fdb15fa-8395-40b7-abc4-d70c9235b2be.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\Screenshot 2025-04-24 090238.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-04-24 090238.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\air-jordan-1-low-se-craft.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-low-se-craft.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\air-jordan-1-mid-se-craft.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-mid-se-craft.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\air-jordan-1-zoom-cmft-2.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-zoom-cmft-2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\be25ss10-hl_brown__1__145a91e0a8d7478ca3b581ba36f0b34d_master.webp",
+      "PackagePath": "staticwebassets\\images\\be25ss10-hl_brown__1__145a91e0a8d7478ca3b581ba36f0b34d_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\bongro.png",
+      "PackagePath": "staticwebassets\\images\\bongro.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\frame_qua_tang_1d0d927d0e634ad5b1978c9ec06d33b4.png",
+      "PackagePath": "staticwebassets\\images\\frame_qua_tang_1d0d927d0e634ad5b1978c9ec06d33b4.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\fwws24fh03c__2__6cf3e3cce3704cd4a342a0d7e36b0a38_master.webp",
+      "PackagePath": "staticwebassets\\images\\fwws24fh03c__2__6cf3e3cce3704cd4a342a0d7e36b0a38_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\fwws25ss03c__1__53beb64cde3e4690b6c63aae39d47287_master.webp",
+      "PackagePath": "staticwebassets\\images\\fwws25ss03c__1__53beb64cde3e4690b6c63aae39d47287_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\fwws25ss04c__1__c0ee545f9e6b4ab58b9bf9a410429650_master.webp",
+      "PackagePath": "staticwebassets\\images\\fwws25ss04c__1__c0ee545f9e6b4ab58b9bf9a410429650_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ks25es09t-scca_white__1__8f7f2a62e8354b7883028067b2482168_master.webp",
+      "PackagePath": "staticwebassets\\images\\ks25es09t-scca_white__1__8f7f2a62e8354b7883028067b2482168_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ks25ss11c-scca_red__1__7b863d17770b47318b49e366032add86_master.webp",
+      "PackagePath": "staticwebassets\\images\\ks25ss11c-scca_red__1__7b863d17770b47318b49e366032add86_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ks25ss18c-sc_green__1__6a948857c237459e82cd904e9d23cdc4_master.webp",
+      "PackagePath": "staticwebassets\\images\\ks25ss18c-sc_green__1__6a948857c237459e82cd904e9d23cdc4_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\logo 2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo 2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ts25ec06p-rgus_white__1__6212023e58104f7696e25623f663467e_master.webp",
+      "PackagePath": "staticwebassets\\images\\ts25ec06p-rgus_white__1__6212023e58104f7696e25623f663467e_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ts25ec10c-rgus_cream__1__9c7851948ba6410c9c8896aa0f6b92af_master.webp",
+      "PackagePath": "staticwebassets\\images\\ts25ec10c-rgus_cream__1__9c7851948ba6410c9c8896aa0f6b92af_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ts25ec11c-rgus_white__1__5f85ad6d57d74936a7ff770a13bf1331_master.webp",
+      "PackagePath": "staticwebassets\\images\\ts25ec11c-rgus_white__1__5f85ad6d57d74936a7ff770a13bf1331_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ws25ss05t-sdbb_green_ck__1__b1bd811866bf4c1d8850051eb4dba6af_master.webp",
+      "PackagePath": "staticwebassets\\images\\ws25ss05t-sdbb_green_ck__1__b1bd811866bf4c1d8850051eb4dba6af_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ws25ss28p-sdbb_blue_ck__1__cb6c30c2e85a42239887c3bfb2d4c7bf_master.webp",
+      "PackagePath": "staticwebassets\\images\\ws25ss28p-sdbb_blue_ck__1__cb6c30c2e85a42239887c3bfb2d4c7bf_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\ws25ss29p-sc_light_grey__1__dec407171d6947a9940e041055b68737_master.webp",
+      "PackagePath": "staticwebassets\\images\\ws25ss29p-sc_light_grey__1__dec407171d6947a9940e041055b68737_master.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\LAN 2\\TRANTIENDO_2122110150\\TRANTIENDO_2122110150\\wwwroot\\images\\wt25ss03-hz_brown__1__59e5b1f3d5dc4f4eaa7860f43ea4cfe5_master.webp",
+      "PackagePath": "staticwebassets\\images\\wt25ss03-hz_brown__1__59e5b1f3d5dc4f4eaa7860f43ea4cfe5_master.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TRANTIENDO_2122110150.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TRANTIENDO_2122110150.props",
+      "PackagePath": "build\\TRANTIENDO_2122110150.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TRANTIENDO_2122110150.props",
+      "PackagePath": "buildMultiTargeting\\TRANTIENDO_2122110150.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TRANTIENDO_2122110150.props",
+      "PackagePath": "buildTransitive\\TRANTIENDO_2122110150.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

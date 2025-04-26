@@ -1,0 +1,6 @@
+@TRANTIENDO_2122110150_HostAddress = http://localhost:5230
+
+GET {{TRANTIENDO_2122110150_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
