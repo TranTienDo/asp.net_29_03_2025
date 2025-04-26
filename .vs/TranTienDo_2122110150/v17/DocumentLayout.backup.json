@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\TranTienDo_2122110150\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\trantiendo_2122110150.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\trantiendo_2122110150.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|d:\\asp.net\\trantiendo_2122110150\\trantiendo_2122110150\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29505F7B-8367-4299-8163-4D0833885ED2}|TranTienDo_2122110150\\TranTienDo_2122110150.csproj|solutionrelative:trantiendo_2122110150\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:03:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\WeatherForecast.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\WeatherForecast.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:36:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\Model\\Category.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Model\\Category.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:41:40.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Program.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Program.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:17:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\appsettings.json",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\appsettings.json",
+              "RelativeToolTip": "TranTienDo_2122110150\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T02:01:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:41:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\Model\\Product.cs",
+              "RelativeToolTip": "TranTienDo_2122110150\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:12:15.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TranTienDo_2122110150.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\TranTienDo_2122110150.csproj",
+              "RelativeDocumentMoniker": "TranTienDo_2122110150\\TranTienDo_2122110150.csproj",
+              "ToolTip": "D:\\ASP.NET\\TranTienDo_2122110150\\TranTienDo_2122110150\\TranTienDo_2122110150.csproj",
+              "RelativeToolTip": "TranTienDo_2122110150\\TranTienDo_2122110150.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T01:11:43.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
