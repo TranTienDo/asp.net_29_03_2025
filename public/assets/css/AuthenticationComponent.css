@@ -1,0 +1,33 @@
+.header-auth-dropdown {
+    background-color: white;
+    color: #333;
+    padding: 5px 10px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.header-auth-dropdown i {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.auth-dropdown-menu {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+.auth-dropdown-menu .dropdown-item {
+    padding: 5px 15px;
+}
+
+.auth-dropdown-menu .dropdown-item:hover {
+    background-color: #f1f1f1;
+}
+
+.auth-dropdown-menu .fa-sign-out {
+    margin-right: 8px;
+}

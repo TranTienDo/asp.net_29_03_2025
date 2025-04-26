@@ -1,0 +1,19 @@
+.header-right {
+    display: flex; /* Sử dụng Flexbox */
+    align-items: center; /* Căn giữa theo chiều dọc */
+}
+
+.header-right ul {
+    display: flex; /* Sử dụng Flexbox cho danh sách */
+    list-style: none; /* Bỏ dấu đầu dòng */
+    padding: 0; /* Bỏ khoảng cách padding */
+    margin: 0; /* Bỏ khoảng cách margin */
+}
+
+.header-right li {
+    margin-right: 15px; /* Khoảng cách giữa các mục */
+}
+
+.header-right li:last-child {
+    margin-right: 0; /* Không có khoảng cách bên phải cho mục cuối cùng */
+}

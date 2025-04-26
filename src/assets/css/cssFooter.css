@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  justify-content: center; /* Căn giữa theo chiều ngang */
+  align-items: center;     /* Căn giữa theo chiều dọc (nếu có chiều cao) */
+  padding: 16px 24px;
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  font-size: 14px;
+  color: #333;
+  flex-direction: column; /* Xếp nội dung theo chiều dọc */
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-right {
+  margin-top: 4px;
+  font-weight: bold;
+  color: #666;
+}
